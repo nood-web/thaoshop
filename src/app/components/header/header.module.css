@@ -1,0 +1,21 @@
+.header {
+    background-color: #171e1f;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: center; /* Horizontally center the content */
+    align-items: center;     /* Vertically center the content */
+  }
+  
+    
+    /* Header */
+    
+    
+    .logo {
+      display: inline-block; 
+      align-items: center;
+    } 
+    
+    
+    
+  
